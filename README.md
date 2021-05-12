@@ -4,7 +4,7 @@
 
 ## 影片展示
 
-[[Youtube]Console game - Tetris]()
+[[Youtube]Console game - Tetris Demo](https://youtu.be/L1s30eJstM4)
 
 ## 操作說明
 |操作     |動作    |
@@ -19,4 +19,6 @@
 |S/s      |更換方塊種類|
 
 ## Gallery
+
+![01.gif](https://i.imgur.com/q3W1T2X.gif)
 
